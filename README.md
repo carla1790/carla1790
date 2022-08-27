@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carla1790
 - 👀 I’m interested in programming, UX design, movies and series.
-- 🌱 I’m currently learning full stack programming and UX design.
+- 🌱 I’m currently learning full stack web programming and UX design.
 - 💞️ I’m looking to collaborate on proyects that can help to improve my study journey.
 - 📫 How to reach me: send me a e-mail to carla.constantino17@gmail.com
 
